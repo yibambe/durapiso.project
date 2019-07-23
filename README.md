@@ -1,2 +1,0 @@
-# durapiso.project
-durapiso project 
